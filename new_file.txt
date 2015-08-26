@@ -1,1 +1,2 @@
 this is new_file.txt
+additional to new_file.txt
